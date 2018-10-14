@@ -1,0 +1,31 @@
+
+Test Cases for the Lab assignment named as: Resource Allocation Graph
+
+
+1.  P1>R1
+	P2>R2
+
+
+2.  P1>R1
+	P2>R2
+	P3>R3
+
+3.  P1>R1
+	R2>P1
+	P3>R2
+	R2>P3
+
+
+4.  P1>R1
+	P2>R2
+	P3>R3
+	P4>R4
+
+
+L.  P:3, R:4
+	P1>R1
+	P2>R3
+	R1>P2
+	R2>P2
+	R2>P1
+	R3>P3
